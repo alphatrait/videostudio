@@ -27,3 +27,4 @@ class Transition:
             if hasattr(clip, 'start') and clip.start == asset.start_time:
                 return index
         return None
+

@@ -67,7 +67,7 @@ class StaticAsset:
 
     def _create_video_clip(self):
         vid_clip = VideoFileClip(self.path)
-        vid_clip = vid_clip.set_position(self.position).set_start(self.start_time).set_end(self.end_time)
+        vid_clip = vid_clip.set_position(self.position).set_start(self.start_time).set_end(self.end_time).set_fps(24)
         return vid_clip
 
 class DynamicAsset:

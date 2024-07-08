@@ -5,3 +5,5 @@ dist
 *.egg-info
 *.egg
 videostudio.egg-info
+.env
+MANIFEST.in

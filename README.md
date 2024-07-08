@@ -243,6 +243,4 @@ canvas.render(output_path='examples/7-smart-audio/output.mp4')
 ```
 
 </br></br>
-More coming soon...# videostudio
-# videostudio
-# videostudio
+More coming soon...
