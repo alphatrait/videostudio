@@ -7,3 +7,4 @@ dist
 videostudio.egg-info
 .env
 MANIFEST.in
+examples/0-experiments
