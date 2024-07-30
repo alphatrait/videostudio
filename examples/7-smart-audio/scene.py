@@ -1,4 +1,4 @@
-# 7-smart-audio/example.py
+# 7-smart-audio/scene.py
 
 # This example demonstrates how to create a simple video and match the transitions with the audio
 

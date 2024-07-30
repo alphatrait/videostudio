@@ -1,4 +1,4 @@
-# 6-audio-pool/example.py
+# 6-audio-pool/scene.py
 
 # This example demonstrates how to create a simple video from a pool of static assets with audio.
 

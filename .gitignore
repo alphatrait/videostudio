@@ -8,3 +8,5 @@ videostudio.egg-info
 .env
 MANIFEST.in
 examples/0-experiments
+__pycache__
+videostudio/__pycache__

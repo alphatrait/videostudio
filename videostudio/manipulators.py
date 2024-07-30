@@ -1,4 +1,4 @@
-# framework/manipulators.py
+# videostudio/manipulators.py
 
 import os
 from moviepy.editor import VideoFileClip

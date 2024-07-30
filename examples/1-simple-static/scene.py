@@ -1,4 +1,4 @@
-# 1-simple-static/example.py
+# 1-simple-static/scene.py
 
 # This example demonstrates how to create a simple video with static assets.
 

@@ -1,4 +1,4 @@
-# 5-asset-pool/example.py
+# 5-asset-pool/scene.py
 
 # This example demonstrates how to create a simple video from a pool of static assets. 
 

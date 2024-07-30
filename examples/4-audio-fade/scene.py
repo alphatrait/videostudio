@@ -1,4 +1,4 @@
-# 4-audio-fade/example.py
+# 4-audio-fade/scene.py
 
 # This example demonstrates how to create a simple video with static assets, transitions, audio, and audio fades.
 

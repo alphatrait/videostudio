@@ -1,4 +1,4 @@
-# 2-simple-transition/example.py
+# 2-simple-transition/scene.py
 
 # This example demonstrates how to add a simple transition between two static assets.
 

@@ -1,4 +1,4 @@
-# 3-simple-audio/example.py
+# 3-simple-audio/scene.py
 
 # This example demonstrates how to create a simple video with static assets, transitions, and audio.
 
